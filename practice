@@ -1,0 +1,13 @@
+#Declare a variable
+a=20
+print(a)
+#Delete a variable
+del a
+#Concate variables
+a=40
+b=20
+print str(a)+str(b)
+#Declaring globally
+global a=30
+print(a)
+@Sirishakrishna
