@@ -1,0 +1,5 @@
+All varaibles declared in python will be stored in a reserved memory location.
+python has different data types. some of the main ones are numbers , tuples , strings , dictionary and Lists.
+To declare a variable as global we need to use the keyboard "GLOBAL" to the variable . 
+without global keyword declaration the variable will be only in local scope.
+To delete the varaible we need to use the keyword "DEL"
