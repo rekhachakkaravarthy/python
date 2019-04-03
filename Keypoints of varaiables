@@ -1,4 +1,5 @@
 All varaibles declared in python will be stored in a reserved memory location.
+*** Variables are referred to "envelop" or "buckets" where information can be maintained and referenced. *** 
 python has different data types. some of the main ones are numbers , tuples , strings , dictionary and Lists.
 To declare a variable as global we need to use the keyboard "GLOBAL" to the variable . 
 without global keyword declaration the variable will be only in local scope.
