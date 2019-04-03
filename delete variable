@@ -1,0 +1,6 @@
+#delete variable
+
+f=11
+print(f)
+Del f 
+Print(f)
