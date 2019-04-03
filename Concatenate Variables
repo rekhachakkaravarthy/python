@@ -1,0 +1,13 @@
+
+Let's see whether you can concatenate different data types like string and number together. For example, we will concatenate "Hello" with the number "99". 
+Unlike Java, which concatenates number with string without declaring number as string, Python requires declaring the number as string otherwise it will show a TypeError
+
+a=”hello”
+b=9
+Print (a+b)
+
+Once the integer is declared as string, it can concatenate both "hello" + str("99")= "hello99" in the output.
+
+a=”hello”
+b=9
+Print (a+str(b))
