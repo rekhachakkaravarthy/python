@@ -1,0 +1,9 @@
+Example
+a=99
+Print(a) 
+Def newfunction()
+Global a
+a=101
+Print( a)
+newfunction()
+print (a)
