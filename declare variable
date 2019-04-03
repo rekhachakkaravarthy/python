@@ -1,4 +1,4 @@
-We will declare variable "a" and print it. 
+declare variable "a" and print it. 
 # sample example to declare a variable and print the value #
 
 a=9
