@@ -1,0 +1,5 @@
+We will declare variable "a" and print it. 
+# sample example to declare a variable and print the value #
+
+a=9
+Print a
