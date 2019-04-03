@@ -17,3 +17,7 @@ It is assigned value "I am learning Python." which is printed out as an output.
 This variable is different from the global variable "a" define earlier
 Once the function call is over, the local variable a is destroyed. 
 when we again, print the value of "a" is it displays the value of global variable a=101
+
+Global variables are declared outside any function, and they can be accessed (used) on any function in the program. 
+Local variables are declared inside a function, and can be used only inside that function. 
+It is possible to have local variables with the same name in different functions.
