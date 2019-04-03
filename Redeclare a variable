@@ -1,0 +1,11 @@
+# Redeclare the same variable # 
+
+You can re-declare the variable even after you have declared it once. 
+Here we have variable initialized to f=0. 
+Later, we re-assign the variable f to value "Hello"
+
+f=o
+Print (f) 
+f=’hello’
+Print (f)
+
