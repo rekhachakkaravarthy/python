@@ -3,9 +3,15 @@ syntax : sliced_list = List[StartIndex : EndIndex]
 
 Example 
 ------
-list = ["Red", Green , "blue . Orange"]
+list = ["Red", Green , "blue , Orange"]
 print(List[0,3])
 
 Print (List [0,-4])
 Print (list (1,-3))
 
+Remove item from the list at the given position and return it
+-------------------------------------------------------------
+list = ["Red", Green , "blue , Orange"]
+Print list --> Red , Green , Blue , Orange 
+list.pop(2) 
+Print list --> Red , green and Orange 
