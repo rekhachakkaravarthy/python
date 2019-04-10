@@ -9,3 +9,15 @@ Index from left = [0,1,2,3]
 Index from right = [-4,-3,-2,-1]
 
 
+############################
+Item= [Red, Green, Yellow, Black]
+print Item[0]
+print Item[1]
+print Item[2]
+print Item[3]
+#############################
+for(i=0;i<=3;i++)
+print(Item[i])
+
+
+
