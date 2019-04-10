@@ -15,3 +15,4 @@ list = ["Red", Green , "blue , Orange"]
 Print list --> Red , Green , Blue , Orange 
 list.pop(2) 
 Print list --> Red , green and Orange 
+Print list.pop(-3) 
