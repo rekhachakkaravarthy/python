@@ -1,0 +1,27 @@
+Example to create a list to store integer values
+-------------------------------------------------
+my_list1 = [5,3,2,1]
+Print (my_list1)
+
+Example to create a list to store string values 
+-----------------------------------------------
+my_list2 = ["red" ,"green","yellow"]
+Print (my_list2)
+
+Example to create a list to store string , integer and float values 
+-------------------------------------------------------------------
+my_list3 = ["red",12, 112.2]
+print (my_list3)
+
+Example to create a empty list 
+------------------------------
+my_list4 = []
+print (my_list4)
+
+Example to cocacentation of two list with the operator + 
+---------------------------------------------------------
+my_list1 = ["Red", "white"]
+my_list2 = ["Green", "Yellow"]
+my_list3 = ["brown" , "black"]
+my_list = my_list1 + my_list2 + my_list3
+print (my_list)
