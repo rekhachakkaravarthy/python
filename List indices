@@ -1,6 +1,11 @@
 Examples to create a list with indices 
 ---------------------------------------
 
+Left - postive count 
+Right - Negative count 
+---------------------------
 Item = [Red , Green , Yellow, Black] 
 Index from left = [0,1,2,3]
 Index from right = [-4,-3,-2,-1]
+
+
