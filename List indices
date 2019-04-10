@@ -20,5 +20,8 @@ Print Item [-4] - Red
 for(i=0;i<=3;i++)
 print(Item[i])
 
+Remove Item from the list 
+Add item from list with indices 
+
 
 
