@@ -5,3 +5,7 @@ Example
 ------
 list = ["Red", Green , "blue . Orange"]
 print(List[0,3])
+
+Print (List [0,-4])
+Print (list (1,-3))
+
