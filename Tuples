@@ -61,3 +61,14 @@ if an element exists within a tuple
 True
  print(5 in tuplex)
 False
+
+List to tuple
+-------------
+ #create list
+ listx = [5, 10, 7, 4, 15, 3]
+ print(listx)
+[5, 10, 7, 4, 15, 3]
+#use the tuple() function built-in Python, passing as parameter the list
+ tuplex = tuple(listx)
+ print(tuplex)
+(5, 10, 7, 4, 15, 3)
