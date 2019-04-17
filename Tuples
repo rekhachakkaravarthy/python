@@ -1,0 +1,52 @@
+A tuple is a container which holds a series of comma-separated values (items or elements) between parentheses such 
+as an (x, y) co-ordinate. Tuples are like lists, except they are immutable 
+(i.e. you cannot change its content once created) and can hold mix data types. 
+Tuples play a sort of "struct" role in Python -- a convenient way to pass around a little logical, 
+fixed size bundle of values.
+
+Create a tuple
+-----------------
+#create an empty tuple
+tuplex = ()
+print (tuplex)
+
+create a tuple with different data types
+---------------------------------------------
+tuplex = ('tuple', False, 3.2, 1)
+ print (tuplex)
+('tuple', False, 3.2, 1)
+
+Create a tuple with numbers, notation without parenthesis
+---------------------------------------------------------
+tuplex = 4, 7, 3, 8, 1 
+print (tuplex)
+(4, 7, 3, 8, 1)
+
+create a tuple of one item, notation without parenthesis
+---------------------------------------------------------
+tuplex = 4, 
+print (tuplex)
+(4,)
+
+create a tuple from a iterable object
+-------------------------------------
+tuplex = tuple([True, False]) 
+print (tuplex)
+(True, False)
+
+get the item from the tuple 
+------------------------------
+
+ #create a tuple
+ ----------------
+ tuplex = ("w", 3, "r", "e", "s", "o", "u", "r", "c", "e") 
+print(tuplex)
+('w', 3, 'r', 'e', 's', 'o', 'u', 'r', 'c', 'e')
+#get item (4th element)of the tuple by index
+item = tuplex[3]
+ print(item)
+e
+ #get item (4th element from last)by index negative
+ item1 = tuplex[-4]
+ print(item1)
+u
