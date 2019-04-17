@@ -12,7 +12,8 @@ print(list1)
 list1.insert(6,"pansies")
 --- added by rekha ---
 list1.insert(2,102.6)
-roses lillies 102.6 jasmines pansies
+
+roses, lillies, 102.6, jasmine, pansies
 ---------------------
 print(list1[0])
 print(list1[-1])
