@@ -50,3 +50,14 @@ e
  item1 = tuplex[-4]
  print(item1)
 u
+if an element exists within a tuple 
+------------------------------------
+ #create a tuple
+ tuplex = ("w", 3, "r", "e", "s", "o", "u", "r", "c", "e")
+ print(tuplex)
+('w', 3, 'r', 'e', 's', 'o', 'u', 'r', 'c', 'e')
+ #use in statement
+ print("r" in tuplex)
+True
+ print(5 in tuplex)
+False
