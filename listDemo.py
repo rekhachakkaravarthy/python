@@ -13,6 +13,7 @@ list1.insert(6,"pansies")
 --- added by rekha ---
 list1.insert(2,102.6)
 
+roses, lillies, 102.6, jasmine, pansies
 
 ---------------------
 print(list1[0])
