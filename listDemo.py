@@ -14,7 +14,7 @@ list1.insert(6,"pansies")
 list1.insert(2,102.6)
 
 -- > o/p --> roses, lillies, 102.6, jasmine, pansies
-              0       1       3       -2       -1
+              0       1       2      -2       -1
 ----------------------------------------------------
 print(list1[0])
 print(list1[-1])
